@@ -81,8 +81,6 @@
     "check-dts": "^0.6.7",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
-    "esbuild": "^0.8.57",
-    "esbuild-webpack-plugin": "^1.1.0",
     "eslint": "^7.16.0",
     "eslint-config-defaults": "^9.0.0",
     "eslint-config-standard": "^16.0.2",
